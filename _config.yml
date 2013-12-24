@@ -6,14 +6,15 @@ url:              http://nofutur.github.io/onuralp
 
 # Owner/author information
 owner:
-  name:           Onuralp Söylemez
+  name:           Onuralp Söylemez2
   avatar:         bio-photo.jpg
   bio:            "Evolutionary biologist"
-  email:          onuralp@gmail.com
+  email:          "onuralp@gmail.com"
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        amfoes
+  home:   "www.crg.eu"
+  twitter:        "amfoes"
   facebook:       
-  github:       nofutur  
+  github:       "nofutur"  
   linkedin:       
   instagram:      
   lastfm:         
