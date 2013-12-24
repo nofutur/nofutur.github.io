@@ -1,25 +1,25 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            Onuralp
+tagline:          This is a tagline example. 
+description:      Here I briefly describe my website. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://nofutur.github.io/onuralp/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Onuralp Söylemez
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Evolutionary biologist"
+  email:          onuralp@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter:        amfoes
   facebook:       
-  github:         
+  github:       nofutur  
   linkedin:       
   instagram:      
   lastfm:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    107156000651200426690
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
