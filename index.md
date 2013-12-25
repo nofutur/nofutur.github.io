@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 description: "Notes on evolutionary genomics, population genetics and molecular evolution."
 tags: []
 image:
