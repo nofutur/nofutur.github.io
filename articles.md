@@ -1,6 +1,6 @@
 ---
-layout: post
-permalink: /about/index.html
+layout: post-index
+permalink: /articles/index.html
 title: 
 tagline: 
 tags: 
