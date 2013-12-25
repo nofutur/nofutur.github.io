@@ -16,8 +16,8 @@ Here is a collection of links to interesting websites on evolutionary genomics, 
 ### Open access research:
 
 * [Haldane's Sieve](http://haldanessieve.org/) [preprint, author summary]
-* [Arxiv](www.arxiv.org) (preprint)
-* [Biorxiv](http://biorxiv.org/) (preprint)
+* [Arxiv](www.arxiv.org) [preprint]
+* [Biorxiv](http://biorxiv.org/) [preprint]
 
 ---
 
