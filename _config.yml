@@ -32,8 +32,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
+  #- title: About
+  #  url: /about
   - title: Archive
     url: /links
   #- title: Theme Setup
@@ -49,7 +49,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-#permalink:   /:categories/:title
+permalink:   /:categories/:title
 #permalink:   /:year/:month/:title.html
 
 kramdown:
