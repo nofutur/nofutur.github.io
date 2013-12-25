@@ -8,5 +8,3 @@ image:
   creditlink:
 ---
 
-{% include index.html %}
-
