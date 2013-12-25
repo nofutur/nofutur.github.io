@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /index.html
+permalink: 
 description: "Notes on evolutionary genomics, population genetics and molecular evolution."
 tags: []
 image:
