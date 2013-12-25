@@ -1,3 +1,16 @@
+---
+layout: page
+permalink: /links/index.html
+title: 
+tagline: 
+tags: [links]
+modified: 25-12-2013
+image:
+  feature: 
+  credit: 
+  creditlink: 
+---
+
 Here is a collection of links to interesting material on evolutionary genomics, population genetics and molecular evolution that I gather around the web. 
 
 ## Open access research:
