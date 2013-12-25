@@ -34,7 +34,7 @@ image:
 #### Collective blogs
 
 * [Genomes Unzipped](http://www.genomesunzipped.org/) [medical genomics, ethics, legal issues]
-* [The mermaid's tale](ecodevoevo.blogspot.com) []
+* [The mermaid's tale](http://ecodevoevo.blogspot.com) [evolutionary biology]
 
 ---
 
