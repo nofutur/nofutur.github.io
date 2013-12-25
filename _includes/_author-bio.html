@@ -1,11 +1,11 @@
 <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
 <h3>{{ site.owner.name }}</h3>
 <p>{{ site.owner.bio }}</p>
-<h3>{{ site.owner.email }}</h3>
 
-{% if site.owner.home %}<a href="http://www.goodreads.com/{{ site.owner.home }}" class="author-social" target="_blank"><i class="icon-home"</i> Goodreads</a>{% endif %}
+{% if site.owner.scholar %}<a href="{{ site.owner.scholar }}" class="author-social" target="_blank"><i class="icon-home"></i> Scholar Google</a>{% endif %}
+
 {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
 {% if site.owner.google_plus %}<a href="http://plus.google.com/{{ site.owner.google_plus }}" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>{% endif %}
 {% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>{% endif %}
 {% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>{% endif %}
-
+{% if site.owner.home %}<a href="http://www.goodreads.com/{{ site.owner.home }}" class="author-social" target="_blank"><i class="icon-home"</i> Goodreads</a>{% endif %}
