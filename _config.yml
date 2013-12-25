@@ -32,13 +32,13 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /about/
+    url: /about
   - title: Useful links
-    url: /links/
+    url: /links
   - title: Watch list
-    url: /watch/
+    url: /watch
   - title: Theme Setup
-    url: /theme-setup/
+    url: /theme-setup
   #- title: Made Mistakes
   #  url: http://mademistakes.com
   #  external: true
