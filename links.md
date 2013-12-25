@@ -39,7 +39,6 @@ image:
 * [Biostars](http://www.biostars.org/) 
 * [Stack overflow](http://stackoverflow.com/) 
 * [Cross validated](http://stats.stackexchange.com/)
-* 
 
 ---
 
