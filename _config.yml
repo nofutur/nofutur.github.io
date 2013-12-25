@@ -9,7 +9,7 @@ owner:
   name:           Onuralp Söylemez
   avatar:         bio-photo.jpg
   bio:            "Evolutionary biologist"
-  email:          "name@gmail.com"
+  email:          
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        "amfoes"
   facebook:       
@@ -17,6 +17,7 @@ owner:
   linkedin:       
   instagram:      "amfoes"
   lastfm:
+  scholar: "http://scholar.google.es/citations?user=ZApmddUAAAAJ"
   home:  "onuralp"
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
