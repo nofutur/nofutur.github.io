@@ -28,7 +28,7 @@ image:
 * [Haldane's Sieve](http://haldanessieve.org/) 
 * [Arxiv](www.arxiv.org) 
 * [Biorxiv](http://biorxiv.org/) 
-* [Pubmed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/) ]
+* [Pubmed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/) 
 * [Pubpeer](https://pubpeer.com/) 
 
 ---
