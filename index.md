@@ -7,3 +7,5 @@ image:
   credit: 
   creditlink:
 ---
+
+{% include about.md %} 
