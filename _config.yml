@@ -34,6 +34,8 @@ bing_verify:
 links:
   - title: About
     url: /about
+  - title: Posts
+    url: /articles
   - title: Useful links
     url: /links
   #- title: Theme Setup
