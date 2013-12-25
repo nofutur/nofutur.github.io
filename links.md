@@ -8,17 +8,16 @@ Here is a collection of links to interesting material on evolutionary genomics, 
 
 ---
 
-## Personal blogs
+## Blogroll
 
 * [Bits of DNA](http://liorpachter.wordpress.com/) [computational biology, transcriptome study, sequencing technology]
 * [Telliamed revisited](http://telliamedrevisited.wordpress.com/) [experimental evolution]
 
-## Collective blogs
-
 * [Genomes Unzipped](http://www.genomesunzipped.org/) [medical genomics, ethics, legal issues]
+
 ---
 
 ## Video clips
 
-* 
+* Some video...
 * 
