@@ -1,6 +1,6 @@
 title:            Onuralp
-tagline:          This is a tagline example. 
-description:      Here I briefly describe my website. 
+tagline:           
+description:      
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://nofutur.github.io/onuralp
 
@@ -36,8 +36,6 @@ links:
     url: /about
   - title: Useful links
     url: /links
-  - title: Watch list
-    url: /watch
   #- title: Theme Setup
   #  url: /theme-setup
   #- title: Made Mistakes
