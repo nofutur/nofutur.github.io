@@ -9,9 +9,8 @@ owner:
   name:           Onuralp Söylemez
   avatar:         bio-photo.jpg
   bio:            "Evolutionary biologist"
-  email:          
+  email:          "onuralp@gmail.com"
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  home:   "www.crg.eu"
   twitter:        "amfoes"
   facebook:       
   github:       "nofutur"  
@@ -21,7 +20,7 @@ owner:
   goodreads:  "onuralp"
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: "onuralp"   
+  google_plus: 107156000651200426690   
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
