@@ -11,4 +11,4 @@ I am a graduate student in the **Evolutionary Genomics Group** at [Center for Ge
 
 I am broadly interested in understanding the role of epistasis in short- and long-term evolution.
 
-You can ping me at [@amfoes](www.twitter.com/amfoes) or contact me via e-mail: *myname@gmail.com*
+
