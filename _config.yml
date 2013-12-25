@@ -34,9 +34,7 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Posts
-    url: /articles
-  - title: Useful links
+  - title: Archive
     url: /links
   #- title: Theme Setup
   #  url: /theme-setup
@@ -52,7 +50,7 @@ markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 #permalink:   /:categories/:title
-permalink:   /:year/:month/:title.html
+#permalink:   /:year/:month/:title.html
 
 kramdown:
   auto_ids: true
